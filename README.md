@@ -1,4 +1,8 @@
 ### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nautaa&count_private=true&show_icons=true&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+
+- 🔭 I’m currently working on OpenMLDB
+- 🌱 I’m currently learning Rust
 
 <!--
 **jingchen2222/jingchen2222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
