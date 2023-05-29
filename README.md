@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jingchen2222&count_private=true&show_icons=true&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-- 🔭 I’m currently working on OpenMLDB
+- 🔭 I’m currently working on DB3
 - 🌱 I’m currently learning Rust
 
 <!--
